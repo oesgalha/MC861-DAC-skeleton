@@ -18,6 +18,11 @@ Se você ainda não clonou este repositório, use:
 git clone https://github.com/oesgalha/MC861-DAC-skeleton.git
 ```
 
+Para instalar automaticamente as outras dependências do projeto:
+```
+npm install
+```
+
 Quando terminar, basta rodar o seguinte comando de dentro da pasta do projeto:
 
 ```bash
